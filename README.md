@@ -17,7 +17,9 @@ This repository contains the code examples, assignments, and projects for the Py
 7. [File Handling](#file-handling)
 8. [Error and Exception Handling](#error-and-exception-handling)
 9. [Libraries and Frameworks](#libraries-and-frameworks)
-10. [How to Use](#how-to-use)
+10. [Monthly Attendance Records](#monthly-attendance-records)
+11. [Assignments](#assignments)
+12. [How to Use](#how-to-use)
 
 ## Basics of Python
 
@@ -142,6 +144,46 @@ This repository contains the code examples, assignments, and projects for the Py
 - [NumPy Documentation](https://numpy.org/doc/)
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 - [Flask Documentation](https://flask.palletsprojects.com/en/1.1.x/)
+
+## Monthly Attendance Records
+
+### January
+- [Attendance Record](attendance/january.md)
+
+### February
+- [Attendance Record](attendance/february.md)
+
+### March
+- [Attendance Record](attendance/march.md)
+
+### April
+- [Attendance Record](attendance/april.md)
+
+### May
+- [Attendance Record](attendance/may.md)
+
+### June
+- [Attendance Record](attendance/june.md)
+
+### July
+- [Attendance Record](attendance/july.md)
+
+### August
+- [Attendance Record](attendance/august.md)
+
+## Assignments
+
+### Assignment 1
+- [Assignment Details](assignments/assignment1.md)
+
+### Assignment 2
+- [Assignment Details](assignments/assignment2.md)
+
+### Assignment 3
+- [Assignment Details](assignments/assignment3.md)
+
+### Assignment 4
+- [Assignment Details](assignments/assignment4.md)
 
 ## How to Use
 
