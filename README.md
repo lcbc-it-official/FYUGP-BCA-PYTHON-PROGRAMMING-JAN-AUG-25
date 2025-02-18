@@ -137,6 +137,7 @@ This repository contains the code examples, assignments, and projects for the Py
 
 ### Lecture Notes
 - [Introduction to NumPy](lectures/libraries_frameworks/introduction_to_numpy.md)
+- (<script src="https://gist.github.com/misho-kr/b12927ce5896d83115a149adf885de2c.js"></script>)
 - [Introduction to Pandas](lectures/libraries_frameworks/introduction_to_pandas.md)
 - [Building Web Apps with Flask](lectures/libraries_frameworks/building_web_apps_with_flask.md)
 
